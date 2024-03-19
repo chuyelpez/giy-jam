@@ -1,0 +1,38 @@
+---
+tags: [Import-68a0]
+title: 'UNIDAD 1.1: ¿Cómo es la sintaxis de Python?'
+created: '2023-09-15T01:39:19.990Z'
+modified: '2023-12-02T20:40:43.616Z'
+---
+
+
+
+# UNIDAD 1.1: ¿Cómo es la sintaxis de Python?
+**Python no solo se caracteriza por hacer sus scripts para múltiples servicios a poder resolver en una empresa, si no que también ayuda a los estudiantes de programación, informática, desarrolladores web y sobre todo a las personas que quieren comenzar de 0 a este aprendizaje del lenguaje, por ello vamos con algunos ejemplos de como se desarrolla la sintaxis de Python y sus múltples formas de aprender este lenguaje que usa mas que la lógica su desarrollo en la solución fácil del algoritmo.**
+
+<span style="color:red">Este es un ejemplo de un hola mundo con la sintaxis que se utiliza en Python:</span>
+```python
+print("Hola Mundo!")
+```
+
+
+El <span style="color:blue">**print**</span> significa que podemos imprimir un String o str, una variable, diccionario o un condicional, por ello es que nosotros podemos usarla siempre que podamos imprimir el resultado (es de ley) 
+
+Los <span style="color:green">**( )**</span> significa que podemos colocar cualquier tipo de dato o incluso condicionales que nos permitan hacer el uso de estas variables en su respectivo uso indicando que algo estará dentro de esos parentesis
+
+Las <span style="color:yellow">**" "**</span> significa que este dato es o una cadena de carácteres, además de que al inicio podemos en una variable escribir una cadena para definir que es un dato de tipo String
+
+Así podemos darnos cuenta de que este lenguaje es fácil de aprender, pero toma en cuenta una cosa importante que a muchos programadores les dan dolores de cabeza y son los famosos <span style="color:aqua">**" ; "**</span> que nos ocasiona el problema de que no se pueda ejecutar el código desarrollado y que se tenga que revisar desde un inicio hasta el final, por eso Python trata de evitar esos dolores y hacer su sintaxis más fácil de lo que uno puede aprender
+
+**NOTA:** Es un ejemplo de como se imprime cualquier tipo de valor que deseemos agregar, pero considerando que todo tiene un valor más práctico a sus especificaciones que tengamos que resolver en el algoritmo
+
+---
+
+# RESULTADOS
+
+**Adjunto lo que debe imprimir el código anterior**
+
+![Alt](/home/jorchitoxyz/Imágenes/Capturas de pantalla/Hola Mundo.png)
+
+
+
